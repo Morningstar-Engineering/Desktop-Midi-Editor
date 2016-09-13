@@ -1,4 +1,4 @@
-# v0.1 Release
+# v0.2 Release
 
 __Layout__
   * Layout optimization
