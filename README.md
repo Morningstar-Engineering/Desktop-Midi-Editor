@@ -1,4 +1,4 @@
 # Morningstar Midi Desktop Editor.
-### Last updated 26 March 2017
+### Last updated 30 July 2017
 
-**For use with MC6 v2.4 and above**
+**For use with MC6 v2.5.0 and above**
